@@ -1,0 +1,1 @@
+Diffusional nn with u-net architecture based on transposed convolutions. I used linear noise scheduler in this project. Main problem is a grid-like pattern, I was unable to find where does it come from.
